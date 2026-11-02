@@ -48,3 +48,9 @@ This script aggregates the results across simulations to facilitate their visual
 The R script `CH-fun.R` contains the supporting functions required for both the simulation studies and the data analyses.
 
 These functions are automatically loaded by the corresponding main scripts.
+
+## Requirements
+
+The analyses were performed using **R version 4.2.1 (2022-06-23)**.
+
+The required R packages are specified in the respective R scripts.
